@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<revista numero="2166" data="10/07/2012">
+	<processo numero="123456789" data-deposito="10/11/2016"
+		data-concessao="10/11/2016" data-vigencia="10/11/2016">
+		<despachos>
+			<despacho codigo="IPAS009"
+				nome="Publicação de pedido de registro para oposição (exame formal concluído)">
+				<texto-complementar>EXAME COM BASE NOS DADOS BIBLIOGRÁFICOS</texto-complementar>
+			</despacho>
+		</despachos>
+		<titulares>
+			<titular nome-razao-social="TEXTO DO REQUERENTE OU TITULAR DAMARCA" pais="BR" uf="MT" />
+		</titulares>
+		<marca apresentacao="Nominativa" natureza="De Produto">
+			<nome>nome da marca</nome>
+			<traducao>Tradução da Marca</traducao>
+		</marca>
+		<prioridade-unionista>
+			<prioridade data="10/11/2016" numero="xxx,zzz" pais="XX" />
+		</prioridade-unionista>
+		<classes-vienna edicao="4">
+			<classe-vienna codigo="27.5.9" />
+			<classe-vienna codigo="27.5.25" />
+			<classe-vienna codigo="29.1.13" />
+		</classes-vienna>
+		<classe-nice codigo="43" edicao="10">
+			<especificacao>Restaurantes - [Informação em];</especificacao>
+		</classe-nice>
+		<classe-nacional codigo="25">
+			<especificacao>Teste</especificacao>
+			<sub-classes-nacional>
+				<sub-classe-nacional codigo="10" />
+				<sub-classe-nacional codigo="20" />
+			</sub-classes-nacional>
+		</classe-nacional>
+		<apostila>Descrição da Apostila</apostila>
+		<procurador>Nome do Procurador do Pedido</procurador>
+		<sobrestadores>
+			<sobrestador processo="900699663" marca="SUPORT LINE" />
+			<sobrestador processo="901322601" marca="Oyster Line" />
+		</sobrestadores>
+	</processo>
+</revista>
